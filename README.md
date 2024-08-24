@@ -16,7 +16,7 @@
 # Grupos
 
 ### Grupo 2:
-![logo.svg](..%2F..%2F..%2F..%2F..%2FDownloads%2Flogo.svg)
+![logo](https://github.com/user-attachments/assets/d92374bc-4a7e-4ec6-bbd2-191ad395907b)
 
 #### Descrição do produto:
 ZéMenu é um sistema inovador de gerenciamento de pedidos desenvolvido por alunos, que visa modernizar o atendimento em restaurantes. Com ele, os clientes fazem seus pedidos diretamente pelo tablet fornecido pelo estabelecimento, tornando o processo mais rápido e preciso. Nossa proposta é facilitar a operação dos restaurantes, reduzir erros e custos e melhorar a experiência do cliente com o uso de tecnologia prática e acessível.
