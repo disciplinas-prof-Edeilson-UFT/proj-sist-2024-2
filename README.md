@@ -8,7 +8,7 @@
   - [Grupo 1]()
   - [Grupo 2](#grupo-2)
     - [ZéMenu](#descrição-do-produto)
-  - [Grupo 3]()
+  - [Grupo 3](#grupo-3)
     - [BookSwap](#descrição-do-produto-1)   
   - [Grupo 4]()
 
