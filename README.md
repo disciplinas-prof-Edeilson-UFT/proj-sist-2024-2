@@ -23,12 +23,13 @@ ZéMenu é um sistema inovador de gerenciamento de pedidos desenvolvido por alun
 </br>
 </br>
 
-| Nome                          | Github                                         |
-|-------------------------------|------------------------------------------------|
-| Daniel Barbosa de Assis Costa | [@assisDaniel](https://github.com/assisDaniel) |
-| Danilo Oliveira Maciel        | [@danmaciel23](https://github.com/danmaciel23) |
-| Iago Arruda Faria             | [@fariaIago](https://github.com/fariaIago)     |
-| Pablo Pereira Brito           | [@httpablo](https://github.com/httpablo)       |
-| Tarciso Filho Miranda Dias    | [@tarcisof](https://github.com/tarcisof)       |
+| Nome                                                              | Github                                         |
+|-------------------------------------------------------------------|------------------------------------------------|
+| Daniel Barbosa de Assis Costa                                     | [@assisDaniel](https://github.com/assisDaniel) |
+| Danilo Oliveira Maciel                                            | [@danmaciel23](https://github.com/danmaciel23) |
+| Iago Arruda Faria                                                 | [@fariaIago](https://github.com/fariaIago)     |
+| Pablo Pereira Brito                                               | [@httpablo](https://github.com/httpablo)       |
+| Tarciso Filho Miranda Dias                                        | [@tarcisof](https://github.com/tarcisof)       |
+| [Link do repositório](https://github.com/assisDaniel/Ze-Menu.git) |                                                |
 
 ---
