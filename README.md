@@ -9,6 +9,7 @@
   - [Grupo 2](#grupo-2)
     - [ZéMenu](#descrição-do-produto)
   - [Grupo 3]()
+    - [BookSwap]()   
   - [Grupo 4]()
 
 
@@ -31,5 +32,24 @@ ZéMenu é um sistema inovador de gerenciamento de pedidos desenvolvido por alun
 | Pablo Pereira Brito                                               | [@httpablo](https://github.com/httpablo)       |
 | Tarciso Filho Miranda Dias                                        | [@tarcisof](https://github.com/tarcisof)       |
 | [Link do repositório](https://github.com/assisDaniel/Ze-Menu.git) |                                                |
+
+---
+### Grupo 3:
+![logo](https://github.com/user-attachments/assets/f4c41849-31d1-43dc-b9be-26cc731e0b18)
+
+#### Descrição do produto:
+BookSwap é uma plataforma online que conecta amantes de livros, facilitando a troca de títulos e a construção de uma comunidade literária. Crie um perfil, adicione seus livros à biblioteca virtual e explore o catálogo de outros usuários para encontrar o próximo livro para ler.
+</br>
+</br>
+
+| Nome                                                              | Github                                                         |
+|-------------------------------------------------------------------|----------------------------------------------------------------|
+| Antonio André Barcelos Chagas                                     | [@andrebarceloschagas](https://github.com/andrebarceloschagas) |
+| Caio Santos Silva                                                 | [@CaioSantdev](https://github.com/CaioSantdev)                 |
+| Eduardo Henrique Coelho Ramos                                     | [@KiwiProgamador](https://github.com/KiwiProgamador)           |
+| Laura Barbosa Henrique                                            | [@tinywin](https://github.com/tinywin)                         |
+| Lucas José de Sousa Gomes                                         | [@Yamatosz](https://github.com/Yamatosz)                       |
+| Luiz Carlos Porto do Carmo                                        | [@LuizCPorto](https://github.com/LuizCPorto)                   |
+| [Link do repositório](https://github.com/BookSwap-PS)             |                                                                |
 
 ---
