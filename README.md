@@ -18,7 +18,7 @@
 # Grupos
 
 ### Grupo 1:
-![logo](https://github.com/user-attachments/assets/0abcc829-6f82-4936-a6cd-390d34f3c66f)
+![logo](https://github.com/user-attachments/assets/8c094ea6-05e7-4c75-9385-713bed659f85)
 
 #### Descrição do produto:
 O Eventugo é uma solução desenvolvida para facilitar a gestão de créditos em eventos, substituindo as tradicionais comandas físicas por um sistema digital. O projeto visa criar uma experiência mais conveniente e segura para os participantes, que poderão recarregar e utilizar seus créditos por meio de um aplicativo móvel. O sistema permite a realização de transações utilizando QR codes, com visualização de saldo em tempo real e acompanhamento do histórico de transações.
