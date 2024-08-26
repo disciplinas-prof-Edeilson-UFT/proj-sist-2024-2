@@ -17,6 +17,25 @@
 ---
 # Grupos
 
+### Grupo 1:
+![logo](https://github.com/user-attachments/assets/0abcc829-6f82-4936-a6cd-390d34f3c66f)
+
+#### Descrição do produto:
+O Eventugo é uma solução desenvolvida para facilitar a gestão de créditos em eventos, substituindo as tradicionais comandas físicas por um sistema digital. O projeto visa criar uma experiência mais conveniente e segura para os participantes, que poderão recarregar e utilizar seus créditos por meio de um aplicativo móvel. O sistema permite a realização de transações utilizando QR codes, com visualização de saldo em tempo real e acompanhamento do histórico de transações.
+</br>
+</br>
+
+| Nome                                                              | Github                                         |
+|-------------------------------------------------------------------|------------------------------------------------|
+| Daniel Reis Aruda Sales                                           | [@Danielpyreis](https://github.com/Danielpyreis)|
+| Douglas Ribeiro Santos de Sá                                      | [@XDougSa](https://github.com/XDougSa)         |
+| Eliézer Alencar Moreira                                           | [@Liezy](https://github.com/Liezy)             |
+| Ícaro Mesquita Ponce                                              | [@icarompo](https://github.com/icarompo)       |
+| Murilo Rodrigues Pereira                                          | [@murilortu](https://github.com/murilortu)     |
+| [Link do repositório](https://github.com/Liezy/EventuGO)          |                                                |
+
+---
+
 ### Grupo 2:
 ![logo](https://github.com/user-attachments/assets/d92374bc-4a7e-4ec6-bbd2-191ad395907b)
 
