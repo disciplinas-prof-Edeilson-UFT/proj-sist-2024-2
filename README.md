@@ -89,3 +89,4 @@ O sistema EducaIA funciona como um gerenciador de aulas com suporte de IA que of
 | João Pedro Ribeiro Dias Moraes                                     | [@CaesarCrew](https://github.com/CaesarCrew)         |
 | Tharcio Santana                                                    | [@tharcioskyland](https://github.com/tharcioskyland) |
 | [Link do repositório](https://github.com/lauroolim/PS-EducaIA.git) |                                                     |
+.
