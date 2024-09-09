@@ -11,7 +11,7 @@
   - [Grupo 3](#grupo-3)
     - [BookSwap](#descrição-do-produto-1)   
   - [Grupo 4](#grupo-4)
-    - [EducaIA](#descrição-do-produto-2)
+    - [GameHub](#descrição-do-produto-3)
 
 
 ---
@@ -74,18 +74,19 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 
 ---
 ### Grupo 4: 
-![logo](https://github.com/user-attachments/assets/14095d0d-1ca0-42df-8082-c72520eb8cee)
+![logo](https://github.com/user-attachments/assets/a845c491-2e65-45de-bd36-c8298866afc9)
 
 #### Descrição do produto:
-O sistema EducaIA funciona como um gerenciador de aulas com suporte de IA que oferece funcionalidades de assistente virtual para alunos, professores, instrutores, workshops e demais interessados. É uma plataforma onde os professores alimentam o software com seus próprios conteúdos de planejamento de aula, possibilitando aos alunos o acesso a um chatbot para tirar dúvidas com a IA. Além disso, a plataforma oferece questões geradas automaticamente, com correção e feedback para o professor, e entre outras funcionalidades. Este projeto visa impulsionar o rendimento e a eficiência no processo de ensino-aprendizagem, proporcionando uma experiência personalizada e eficiente de ensino.
+O objetivo principal deste projeto é desenvolver um aplicativo móvel que permita aos gamers encontrar parceiros para jogar com base filtros de busca especializados em interesses e estilos de jogo. Além disso, o aplicativo criará comunidades onde os usuários podem interagir, formar grupos e compartilhar suas experiências de jogo.
 </br>
 </br>
 
-| Nome                                                               | Github                                              |
-| ------------------------------------------------------------------ | --------------------------------------------------- |
-| Lauro Oliveira Mota                                                | [@lauroolim](https://github.com/lauroolim)           |
-| Lucas Carvalho da Luz Moura                                        | [@luc4sm0ur4](https://github.com/luc4sm0ur4)         |
-| Almir Daniel Melo Coelho                                           | [@ad-melo](https://github.com/ad-melo)               |
-| João Pedro Ribeiro Dias Moraes                                     | [@CaesarCrew](https://github.com/CaesarCrew)         |
-| Tharcio Santana                                                    | [@tharcioskyland](https://github.com/tharcioskyland) |
-| [Link do repositório](https://github.com/lauroolim/PS-EducaIA.git) |                                                     |
+| Nome                                                           | Github                                               |
+| -------------------------------------------------------------- | ---------------------------------------------------- |
+| Lauro Oliveira Mota                                            | [@lauroolim](https://github.com/lauroolim)           |
+| Lucas Carvalho da Luz Moura                                    | [@luc4sm0ur4](https://github.com/luc4sm0ur4)         |
+| Almir Daniel Melo Coelho                                       | [@ad-melo](https://github.com/ad-melo)               |
+| João Pedro Ribeiro Dias Moraes                                 | [@CaesarCrew](https://github.com/CaesarCrew)         |
+| Tharcio Santana                                                | [@tharcioskyland](https://github.com/tharcioskyland) |
+| Micael Ribeiro dos Santos                                      | [@messiribeiro](https://github.com/messiribeiro)     |
+| [Link do repositório](https://github.com/messiribeiro/GameHub) |                                                      |
