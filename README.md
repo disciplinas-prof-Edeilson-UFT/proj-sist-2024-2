@@ -77,7 +77,7 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 ![logo](https://github.com/user-attachments/assets/a845c491-2e65-45de-bd36-c8298866afc9)
 
 #### Descrição do produto:
-O objetivo principal deste projeto é desenvolver um aplicativo móvel que permita aos gamers encontrar parceiros para jogar com base filtros de busca especializados em interesses e estilos de jogo. Além disso, o aplicativo criará comunidades onde os usuários podem interagir, formar grupos e compartilhar suas experiências de jogo.
+O objetivo principal deste projeto é desenvolver um aplicativo móvel que permita aos gamers encontrar parceiros para jogar com base filtros de busca especializados em interesses e estilos de jogo. Além disso, o aplicativo criará comunidades onde os usuários podem interagir, formar grupos e compartilhar suas experiências de jogo com os demais usuários.
 </br>
 </br>
 
