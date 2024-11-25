@@ -58,19 +58,17 @@ ZéMenu é um sistema inovador de gerenciamento de pedidos desenvolvido por alun
 ![logo](https://github.com/user-attachments/assets/f4c41849-31d1-43dc-b9be-26cc731e0b18)
 
 #### Descrição do produto:
-BookSwap é uma plataforma online que conecta amantes de livros, facilitando a troca de títulos e a construção de uma comunidade literária. Crie um perfil, adicione seus livros à biblioteca virtual e explore o catálogo de outros usuários para encontrar o próximo livro para ler.
+BookSwap é uma plataforma online projetada para aproximar amantes de livros, incentivando a troca de obras literárias e a criação de uma comunidade colaborativa. Com o BookSwap, os usuários podem criar perfis personalizados, adicionar seus livros a uma biblioteca virtual e explorar o acervo de outros membros. A plataforma facilita o contato direto para negociações, permitindo que os usuários encontrem títulos de interesse e compartilhem suas leituras sem custos. O BookSwap visa fomentar o compartilhamento de conhecimento e a construção de conexões através do amor pelos livros, transformando cada troca em uma oportunidade de descoberta e interação social.
 </br>
 </br>
 
 | Nome                                                              | Github                                                         |
 |-------------------------------------------------------------------|----------------------------------------------------------------|
-| Antonio André Barcelos Chagas                                     | [@andrebarceloschagas](https://github.com/andrebarceloschagas) |
 | Caio Santos Silva                                                 | [@CaioSantdev](https://github.com/CaioSantdev)                 |
-| Eduardo Henrique Coelho Ramos                                     | [@KiwiProgamador](https://github.com/KiwiProgamador)           |
-| Laura Barbosa Henrique                                            | [@tinywin](https://github.com/tinywin)                         |
-| Lucas José de Sousa Gomes                                         | [@Yamatosz](https://github.com/Yamatosz)                       |
 | Luiz Carlos Porto do Carmo                                        | [@LuizCPorto](https://github.com/LuizCPorto)                   |
 | [Link do repositório](https://github.com/BookSwap-PS)             |                                                                |
+| [Link da Lading Page](https://bookswap.my.canva.site/)            |                                                                |
+| [Link Apresentação Técnica](https://www.canva.com/design/DAGXIPsFdHY/sWDwNkCGRw8uBH3vmnxyhw/edit?utm_content=DAGXIPsFdHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|          |
 
 ---
 ### Grupo 4: 
