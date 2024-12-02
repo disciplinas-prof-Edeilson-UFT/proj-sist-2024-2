@@ -33,6 +33,9 @@ O Eventugo é uma solução desenvolvida para facilitar a gestão de créditos e
 | Ícaro Mesquita Ponce                                              | [@icarompo](https://github.com/icarompo)       |
 | Murilo Rodrigues Pereira                                          | [@murilortu](https://github.com/murilortu)     |
 | [Link do repositório](https://github.com/Liezy/EventuGO)          |                                                |
+| [Landing Page](https://eventugo.netlify.app/)                     |                                                |
+| [Vídeo Comercial](https://youtu.be/9whs5gzE_2s)                   |                                                |
+
 
 ---
 
