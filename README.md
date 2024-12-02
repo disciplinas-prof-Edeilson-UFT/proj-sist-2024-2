@@ -4,6 +4,14 @@
 
 ---
 # Índice
+
+- [Evento](#evento)
+  - [StartupSE](#startupse)
+    - [Logo](#logo)
+	- [Fotos do Evento](#fotos-do-evento)
+	  - [Fotos da Banca](#fotos-da-banca)
+	  - [Fotos da Turma](#fotos-com-a-turma)
+
 - [Grupos](#grupos)
   - [Grupo 1]()
   - [Grupo 2](#grupo-2)
@@ -13,7 +21,23 @@
   - [Grupo 4](#grupo-4)
     - [GameHub](#descrição-do-produto-3)
 
+---
 
+# Evento
+
+## StartupSE
+![alt text](evento-banner.png)
+
+## Logo
+![alt text](logo.png)
+
+## Fotos do Evento
+
+### Fotos da Banca
+![alt text](foto-banca.png)
+
+### Fotos com a Turma
+![alt text](foto-turma.png)
 ---
 # Grupos
 
@@ -54,7 +78,9 @@ ZéMenu é um sistema inovador de gerenciamento de pedidos desenvolvido por alun
 | Iago Arruda Faria                                                 | [@fariaIago](https://github.com/fariaIago)     |
 | Pablo Pereira Brito                                               | [@httpablo](https://github.com/httpablo)       |
 | Tarciso Filho Miranda Dias                                        | [@tarcisof](https://github.com/tarcisof)       |
-| [Link do repositório](https://github.com/assisDaniel/Ze-Menu.git) |                                                |
+| [Link do Repositório](https://github.com/assisDaniel/Ze-Menu.git) |                                                |
+| [Link da Landing Page](https://httpablo.github.io/landing-page-zemenu/)|                                                |
+| [Arquivos de Apresentação](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/tree/main/Zé%20Menu)||
 
 ---
 ### Grupo 3:
