@@ -109,12 +109,15 @@ O objetivo principal deste projeto é desenvolver um aplicativo móvel que permi
 </br>
 </br>
 
-| Nome                                                           | Github                                               |
-| -------------------------------------------------------------- | ---------------------------------------------------- |
-| Lauro Oliveira Mota                                            | [@lauroolim](https://github.com/lauroolim)           |
-| Lucas Carvalho da Luz Moura                                    | [@luc4sm0ur4](https://github.com/luc4sm0ur4)         |
-| Almir Daniel Melo Coelho                                       | [@ad-melo](https://github.com/ad-melo)               |
-| João Pedro Ribeiro Dias Moraes                                 | [@CaesarCrew](https://github.com/CaesarCrew)         |
-| Tharcio Santana                                                | [@tharcioskyland](https://github.com/tharcioskyland) |
-| Micael Ribeiro dos Santos                                      | [@messiribeiro](https://github.com/messiribeiro)     |
-| [Link do repositório](https://github.com/messiribeiro/GameHub) |                                                      |
+
+| Nome                                                                                                                                                                                            | Github                                               |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
+| Lauro Oliveira Mota                                                                                                                                                                             | [@lauroolim](https://github.com/lauroolim)           |
+| Lucas Carvalho da Luz Moura                                                                                                                                                                     | [@luc4sm0ur4](https://github.com/luc4sm0ur4)         |
+| Almir Daniel Melo Coelho                                                                                                                                                                        | [@ad-melo](https://github.com/ad-melo)               |
+| Tharcio Santana                                                                                                                                                                                 | [@tharcioskyland](https://github.com/tharcioskyland) |
+| Micael Ribeiro dos Santos                                                                                                                                                                       | [@messiribeiro](https://github.com/messiribeiro)     |
+| [Link do repositório](https://github.com/messiribeiro/GameHub)                                                                                                                                  |                                                      |
+| [Link da Landing Page](https://messiribeiro.github.io/gamehubWeb/)                                                                                                                              |                                                      |
+| [Link da apresentação Técnica](https://docs.google.com/presentation/d/1Dorbyg9YV3X2UZCtW-WAT-5wbl-Pi_-1/edit#slide=id.p1)                                                                       |                                                      |
+| [Link da apresentação Comercial](https://www.canva.com/design/DAGX4dYMaBE/I12Ij0RAAvMWCUqf8353bw/edit?utm_content=DAGX4dYMaBE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |                                                      |
