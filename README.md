@@ -59,10 +59,10 @@ O Eventugo é uma solução desenvolvida para facilitar a gestão de créditos e
 | Murilo Rodrigues Pereira                                          | [@murilortu](https://github.com/murilortu)     |
 | [Link do repositório](https://github.com/Liezy/EventuGO)          |                                                |
 | [Link da Landing Page](https://eventugo.netlify.app/)                     |                                                |
-| [Link do Vídeo Comercial](https://youtu.be/9whs5gzE_2s)                   |                                                |
-| [Link do Vídeo Técnico](https://youtu.be/dzRCh4Q5p2o)                   |                                                |
-| [Link da Apresentação Técnica](https://www.canva.com/design/DAGXVCPNKmI/liKh97JNuoyICctaV16LRA/edit?utm_content=DAGXVCPNKmI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                   |                                                |
-| [Link da Apresentação Comercial](https://www.canva.com/design/DAGYI_U5ZIE/dHVFnVeeUEzcoIQz0CQ8XQ/edit?utm_content=DAGYI_U5ZIE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                   |                                                |
+| [Link do Vídeo Comercial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/EventuGO/V%C3%ADdeo%20Comercial.mp4)                   |                                                |
+| [Link do Vídeo Técnico](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/EventuGO/V%C3%ADdeo%20T%C3%A9cnico.mp4)                   |                                                |
+| [Link da Apresentação Técnica](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/EventuGO/Apresenta%C3%A7%C3%A3o%20T%C3%A9cnica.pdf)                   |                                                |
+| [Link da Apresentação Comercial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/EventuGO/Apresenta%C3%A7%C3%A3o%20Comercial.pdf)                   |                                                |
 
 
 ---
