@@ -26,6 +26,22 @@
 
 # Evento
 
+## Instituições:
+Agência de Inovação da Universidade Federal do Tocantins (Inovato) <br>
+SEBRAE Tocantins <br>
+Incubadora de Empresas da Universidade Federal do Tocantins <br>
+
+## Representantes
+Inovato: 
+Vanderlan Carneiro Dias
+
+Sebrae: 
+Adelice Thomaz Soares Novak
+
+
+Incubadora:
+Maria Joaquina Barbosa Goulart
+
 ## StartupSE
 ![alt text](evento-banner.png)
 
