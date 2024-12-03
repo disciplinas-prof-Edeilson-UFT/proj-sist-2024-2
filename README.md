@@ -103,9 +103,9 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 | Luiz Carlos Porto do Carmo                                        | [@LuizCPorto](https://github.com/LuizCPorto)                   |
 | [Link do repositório](https://github.com/BookSwap-PS)             |                                                                |
 | [Link da Landing Page](https://bookswap.my.canva.site/)           |                                                                |
-| [Link da apresentação Técnica](https://www.canva.com/design/DAGXIPsFdHY/sWDwNkCGRw8uBH3vmnxyhw/edit?utm_content=DAGXIPsFdHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)|   |
-|[Link da Apresentação Comercial](https://www.canva.com/design/DAGYAQ6hWe4/pO9z7b-Ius4-bex6Vd-dcA/edit?utm_content=DAGYAQ6hWe4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)| |
-|[Link Video Comercial](https://youtube.com/shorts/arh9h6c0nMU?feature=share)| |
+| [Link da apresentação Técnica]([https://www.canva.com/design/DAGXIPsFdHY/sWDwNkCGRw8uBH3vmnxyhw/edit?utm_content=DAGXIPsFdHY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/BookSwap/Apresenta%C3%A7%C3%A3o%20Tecnica.pptx))|   |
+|[Link da Apresentação Comercial]([https://www.canva.com/design/DAGYAQ6hWe4/pO9z7b-Ius4-bex6Vd-dcA/edit?utm_content=DAGYAQ6hWe4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/BookSwap/Apresenta%C3%A7%C3%A3o%20Comercial%20.pptx))| |
+|[Link Video Comercial]([https://youtube.com/shorts/arh9h6c0nMU?feature=share](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/BookSwap/Video%20Comercial.MOV))| |
 
 
 ---
