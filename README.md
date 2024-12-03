@@ -106,6 +106,7 @@ BookSwap é uma plataforma online que conecta amantes de livros, facilitando a t
 | [Link da apresentação Técnica](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/BookSwap/Apresenta%C3%A7%C3%A3o%20Tecnica.pptx)|   |
 |[Link da Apresentação Comercial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/BookSwap/Apresenta%C3%A7%C3%A3o%20Comercial%20.pptx)| |
 |[Link Video Comercial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/BookSwap/Video%20Comercial.MOV)| |
+|[Link Video Comercial Youtube](https://www.youtube.com/shorts/Zdf90Mz9WNE)| |
 
 
 ---
