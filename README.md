@@ -60,6 +60,7 @@ O Eventugo é uma solução desenvolvida para facilitar a gestão de créditos e
 | [Link do repositório](https://github.com/Liezy/EventuGO)          |                                                |
 | [Link da Landing Page](https://eventugo.netlify.app/)                     |                                                |
 | [Link do Vídeo Comercial](https://youtu.be/9whs5gzE_2s)                   |                                                |
+| [Link do Vídeo Técnico](https://youtu.be/dzRCh4Q5p2o)                   |                                                |
 | [Link da Apresentação Técnica](https://www.canva.com/design/DAGXVCPNKmI/liKh97JNuoyICctaV16LRA/edit?utm_content=DAGXVCPNKmI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                   |                                                |
 | [Link da Apresentação Comercial](https://www.canva.com/design/DAGYI_U5ZIE/dHVFnVeeUEzcoIQz0CQ8XQ/edit?utm_content=DAGYI_U5ZIE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                   |                                                |
 
