@@ -84,7 +84,9 @@ ZéMenu é um sistema inovador de gerenciamento de pedidos desenvolvido por alun
 | Tarciso Filho Miranda Dias                                        | [@tarcisof](https://github.com/tarcisof)       |
 | [Link do Repositório](https://github.com/assisDaniel/Ze-Menu.git) |                                                |
 | [Link da Landing Page](https://httpablo.github.io/landing-page-zemenu/)|                                                |
-| [Arquivos de Apresentação](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/tree/main/Zé%20Menu)||
+| [Apresentação Técnica](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/Z%C3%A9%20Menu/T%C3%A9cnica%20-%20Z%C3%A9%20Menu.pdf)||
+| [Apresentação Comercial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/Z%C3%A9%20Menu/Pitch%20-%20Z%C3%A9%20Menu.pdf)||
+| [Vídeo Comercial](https://github.com/disciplinas-prof-Edeilson-UFT/proj-sist-2024-2/blob/main/Z%C3%A9%20Menu/Apresenta%C3%A7%C3%A3o%20Produto.mp4)||
 
 ---
 ### Grupo 3:
