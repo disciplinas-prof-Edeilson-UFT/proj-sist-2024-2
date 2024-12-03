@@ -13,13 +13,14 @@
 	  - [Fotos da Turma](#fotos-com-a-turma)
 
 - [Grupos](#grupos)
-  - [Grupo 1]()
+  - [Grupo 1](#grupo-1)
+    - [EventuGO](#descrição-do-produto)
   - [Grupo 2](#grupo-2)
     - [ZéMenu](#descrição-do-produto)
   - [Grupo 3](#grupo-3)
-    - [BookSwap](#descrição-do-produto-1)   
+    - [BookSwap](#descrição-do-produto)   
   - [Grupo 4](#grupo-4)
-    - [GameHub](#descrição-do-produto-3)
+    - [GameHub](#descrição-do-produto)
 
 ---
 
@@ -59,6 +60,8 @@ O Eventugo é uma solução desenvolvida para facilitar a gestão de créditos e
 | [Link do repositório](https://github.com/Liezy/EventuGO)          |                                                |
 | [Link da Landing Page](https://eventugo.netlify.app/)                     |                                                |
 | [Link do Vídeo Comercial](https://youtu.be/9whs5gzE_2s)                   |                                                |
+| [Link da Apresentação Técnica](https://www.canva.com/design/DAGXVCPNKmI/liKh97JNuoyICctaV16LRA/edit?utm_content=DAGXVCPNKmI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                   |                                                |
+| [Link da Apresentação Comercial](https://www.canva.com/design/DAGYI_U5ZIE/dHVFnVeeUEzcoIQz0CQ8XQ/edit?utm_content=DAGYI_U5ZIE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)                   |                                                |
 
 
 ---
