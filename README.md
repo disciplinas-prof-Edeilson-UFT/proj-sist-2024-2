@@ -11,6 +11,8 @@
 	- [Fotos do Evento](#fotos-do-evento)
 	  - [Fotos da Banca](#fotos-da-banca)
 	  - [Fotos da Turma](#fotos-com-a-turma)
+   - [Notícias sobre o evento](#notícias-sobre-o-evento)
+     	- [Postagem no Instagram da UFT](#postagem-no-instagram-da-uft)
 
 - [Grupos](#grupos)
   - [Grupo 1](#grupo-1)
@@ -55,6 +57,11 @@ Maria Joaquina Barbosa Goulart
 
 ### Fotos com a Turma
 ![alt text](foto-turma.png)
+---
+## Notícias Sobre o Evento
+
+- #### [Postagem no Instagram da UFT](https://www.instagram.com/p/DDHdrPAptIZ/?igsh=MTc2ZWo1bHYyOGFveA==)
+
 ---
 # Grupos
 
